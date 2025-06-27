@@ -117,7 +117,7 @@ That responsibility demands certainty, not trust. Mathematics, not faith. Proof,
 
 The post-trust era of security coordination starts now. With end-to-end encryption that keeps discoveries private. With cryptographic signatures that prove authorship. With tamper-evident logging that makes manipulation impossible.
 
-**The old model is dying. The new model is here. Welcome to aud1t.**  
+**The old model is dying. The new model is here. Welcome to aud1t.**
 
 ---
 
