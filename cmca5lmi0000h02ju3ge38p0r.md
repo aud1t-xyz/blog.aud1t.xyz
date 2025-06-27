@@ -123,24 +123,4 @@ The post-trust era of security coordination starts now. With end-to-end encrypti
 
 This post was cryptographically signed by Rahul Narsingipyta ([rahul@aud1t.xyz](mailto:rahul@aud1t.xyz))  
 **Fingerprint:** [E659 A9EC 4939 4E6C D8EE 16F6 1976 6C7A E397 858A](https://keys.openpgp.org/vks/v1/by-fingerprint/E659A9EC49394E6CD8EE16F619766C7AE397858A)
-
-PGP Signature:
-
-```plaintext
------BEGIN PGP SIGNATURE-----
-
-iQIzBAABCgAdFiEE5lmp7Ek5TmzY7hb2GXZseuOXhYoFAmheBvsACgkQGXZseuOX
-hYoLRg//TWLd6Ktdo57bI0U/4zV7a+wHXxPS+mcPRCnzzKn4Gc7OPoKGJl6IOybv
-59rxFmZU40yCWnbF28AjgjW3l4wYsGjl/QGq04rfRMWlPdFGAwFFrWYEG8ainkSR
-zcnQY+q3Fs4gdG2m3mBjQTen9jxRPh1yMgaHgWFx+sJImfl8Viq8cXR6Bu6UvhXo
-7zJrhiEg80TYGMBsYyDrNyXLy36cfYWVvpl9Y5Ix/BFRRDAybMyv78p2Jfb9z4pA
-CszLs33KswKGhavhRozTfRQn5uLIj1e+xSH8VWA1JkwMkxK4RXYybmuhNXI/6z7W
-fl6xbfLXz5m6uwqlfjB1UIYEvCclY1Qd29+SZdgsk5L9uwKQBIx8zRGKkJaaZbCl
-fnJVbq+kMZq4+yDp2OuBzusM9mL4xAHh3VGq7RAfPsubC4qeyaom9iBsyBZiwFxh
-/dUSQvHvLfM7MlcKqRK33oT0omQac0rX/flo6ereWQENRL5FkxxDPpRF8nRGv1P3
-Ivjd2OqMOvkn7HEit65roiJSyGWWcdeKwvfpz77gsCoBc/X0fLLAX5v04qmzQO4t
-XqyBQK6+s+XQ4AYgDvywejWJaLsu54hfOqLHwI8erofDnEMk938oDBDjTCBHhk+i
-SE5wb6Oog5P8zjZfXMLZBdTFzmtt4rK2WlH9xbS5PXPp+Ttm9Lc=
-=5EI4
------END PGP SIGNATURE-----
-```
+>>>>>>> 2e9da69 (sig-update: Removed PGP signature from blog)
