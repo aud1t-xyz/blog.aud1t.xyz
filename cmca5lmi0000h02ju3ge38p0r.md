@@ -123,4 +123,3 @@ The post-trust era of security coordination starts now. With end-to-end encrypti
 
 This post was cryptographically signed by Rahul Narsingipyta ([rahul@aud1t.xyz](mailto:rahul@aud1t.xyz))  
 **Fingerprint:** [E659 A9EC 4939 4E6C D8EE 16F6 1976 6C7A E397 858A](https://keys.openpgp.org/vks/v1/by-fingerprint/E659A9EC49394E6CD8EE16F619766C7AE397858A)
->>>>>>> 2e9da69 (sig-update: Removed PGP signature from blog)
